@@ -16,6 +16,7 @@
   * [Page 2](biology/basic-biology/page-2.md)
 * [🛠 Equipment guide](biology/equipment-guide.md)
 * [🧬 Genome editing](biology/genome-editing.md)
+* [🗝 Useful tools](biology/useful-tools.md)
 
 ## Data science
 
