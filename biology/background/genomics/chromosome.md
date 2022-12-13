@@ -60,3 +60,9 @@ Chromosome에 대해 아주 좋은 설명이지만, 사실 실제 chromosome은 
 
 
 
+## Euchromatin & heterochromatin
+
+
+
+
+
