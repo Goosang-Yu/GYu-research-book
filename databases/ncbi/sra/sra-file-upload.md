@@ -96,7 +96,11 @@ Upload 방법으로 기존에 많이 사용되던 방법은 FTP 전송이지만,
 
 <figure><img src="../../../.gitbook/assets/aspera_Client_5.png" alt=""><figcaption><p>Aspera 명령어를 이용해서 파일을 SRA 서버에 업로드 하는 모습. 자신의 인터넷 환경에서 가능한 최고 수준의 속도로 업로드가 가능하다.</p></figcaption></figure>
 
+5\. 명령어로 파일 업로드가 잘 진행되었다면, SRA preload folder에 10분 정도 후에 업로드 한 파일들을 볼 수 있다.
 
+<figure><img src="../../../.gitbook/assets/SRA_file_upload1.png" alt=""><figcaption><p>FTP or Aspera Command Line file preload를 선택해서 [Select preload folder]를 클릭한다.</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/SRA_file_upload2.png" alt=""><figcaption><p>업로드한 폴더와 각 파일들이 어떤 것들이 있는지 볼 수 있다.</p></figcaption></figure>
 
 
 
