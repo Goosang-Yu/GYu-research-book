@@ -13,9 +13,11 @@
     * [Transfection](biology/basic-biology/delivery/transfection.md)
     * [Transduction](biology/basic-biology/delivery/transduction.md)
   * [Cloning](biology/basic-biology/cloning.md)
-  * [Page 2](biology/basic-biology/page-2.md)
 * [🛠 Equipment guide](biology/equipment-guide.md)
-* [🧬 Genome editing](biology/genome-editing.md)
+* [🧬 Genome editing](biology/genome-editing/README.md)
+  * [Cas9](biology/genome-editing/cas9.md)
+  * [Base editing](biology/genome-editing/base-editing.md)
+  * [Prime editing](biology/genome-editing/prime-editing.md)
 * [🗝 Useful tools](biology/useful-tools.md)
 
 ## Data science
