@@ -41,7 +41,7 @@
   * [Other packagies](data-science/python/other-packagies.md)
   * [Debugging](data-science/python/debugging.md)
 * [💾 Linux](data-science/linux.md)
-* [🦾 Machine learning](data-science/machine-learning/README.md)
+* [🦾 Machine learning](data-science/machine-learning.md)
   * [ML background](data-science/machine-learning/ml-background.md)
   * [Data engineering](data-science/machine-learning/data-engineering.md)
   * [Conventional ML](data-science/machine-learning/conventional-ml.md)

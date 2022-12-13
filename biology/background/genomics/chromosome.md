@@ -16,15 +16,41 @@ Chromosome에 대해 아주 좋은 설명이지만, 사실 실제 chromosome은 
 
 평소의 chromosome은 위 그림과 같이 실 뭉치가 대충 엉켜있는 형태로 존재한다. 사실 이런 형태가 X자 형태보다 훨씬 자연스럽다. X자 형태로 꽉꽉 뭉쳐져 있으면 DNA에 그 어떤 단백질도 다가가기 힘들고 유전자에서 전사 - 번역 등의 과정도 일어나기 힘들 것 같기 때문이다.&#x20;
 
-위 그림에서보면, chromosome에서도 색이 구분되어 그려져 있는데, 이는 해당 부분이 얼마나 활성화된 영역인지를 나타낸다. 예를 들어, 바깥쪽으로 자유롭게 노출되어있는 영역은 붉은 색으로 표시되어 있다. 이는 'active domain'이라고 한다. 이렇게 chromosome 내에서도 chromatin fiber의 위치와 형태에 따라서 구조적 domain이 나뉜다.  Chromosome의각각의 domain에 대해서 자세히 알아보자.
+위 그림에서 보면, chromosome에서도 색이 구분되어 그려져 있는데, 이는 해당 부분이 얼마나 활성화된 영역인지 나타낸다. 예를 들어, 바깥쪽으로 자유롭게 노출되어있는 영역은 붉은 색으로 표시되어 있다. 이는 'active domain'이라고 한다. 이렇게 chromosome 내에서도 chromatin fiber의 위치와 형태에 따라서 구조적 domain이 나뉜다.  Chromosome의 각각의 domain에 대해서 자세히 알아보자.
 
 ## Chromosome의 다양한 domain들
 
 ### Lamin-associated domain (LAD)
 
-각각의 chromosome은 핵 안에서 엉겨있는 형태로 자신만의 영역을 차지하는데, 이를 chromosome territory라고 한다. 세포의 핵 내부를 보면 chromosome들이 각각의 territory를 차지하고 있다. 이런 영역은 꽤 일정한 패턴으로 유지되는 것처럼 나타나는데, 이는 'Lamin-associated domain (LAD) 덕분이다. Lamin (또는는 lamina)는 세포의 핵의 모양을 유지시켜주는 그물망 형태의 단백질 구조체인데, chromosome의 LAD는 이 lamina에 달라붙어서 자신의 영역을 고정하기도 한다.&#x20;
+각각의 chromosome은 핵 안에서 엉겨있는 형태로 자신만의 영역을 차지하는데, 이를 chromosome territory라고 한다. 세포의 핵 내부를 보면 chromosome들이 각각의 territory를 차지하고 있다. 이런 영역은 꽤 일정한 패턴으로 유지되는 것처럼 나타나는데, 이는 'Lamin-associated domain (LAD) 덕분이다. Lamin (또는 lamina)는 세포의 핵의 모양을 유지해주는 그물 형태의 단백질 구조체인데, chromosome의 LAD는 이 lamina에 달라붙어서 자신의 영역을 고정하기도 한다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/chr_LAD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chr_LAD.png" alt=""><figcaption><p>핵 내부에 존재하는 genome을 나타낸 그림 (Brunet, A.). LAD가 nuclear lamina에 붙어있는 것을 볼 수 있다.</p></figcaption></figure>
+
+### Active domain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Silent domain
+
+
+
+
+
+
+
+### Topologically associated domains (TADs)
 
 
 
