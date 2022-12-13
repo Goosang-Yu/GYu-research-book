@@ -21,9 +21,19 @@
 ## Data science
 
 * [📊 Statistics](data-science/statistics.md)
-* [💻 Python](data-science/python.md)
+* [💻 Python](data-science/python/README.md)
+  * [set up](data-science/python/set-up.md)
+  * [Basic syntax](data-science/python/basic-syntax.md)
+  * [Standard library](data-science/python/standard-library.md)
+  * [pandas](data-science/python/pandas.md)
+  * [biopython](data-science/python/biopython.md)
+  * [scipy](data-science/python/scipy.md)
+  * [Other packagies](data-science/python/other-packagies.md)
+  * [Debugging](data-science/python/debugging.md)
 * [💾 Linux](data-science/linux.md)
 * [🦾 Machine learning](data-science/machine-learning.md)
+* [💿 Software](data-science/software/README.md)
+  * [Git / Github](data-science/software/git-github.md)
 * [⚙ Hardware](data-science/hardware.md)
 
 ## Databases
