@@ -28,6 +28,10 @@
   * [Cas9](biology/genome-editing/cas9.md)
   * [Base editing](biology/genome-editing/base-editing.md)
   * [Prime editing](biology/genome-editing/prime-editing.md)
+  * [Mobile element systems](biology/genome-editing/mobile-element-systems/README.md)
+    * [Transposase](biology/genome-editing/mobile-element-systems/transposase.md)
+    * [Integrase](biology/genome-editing/mobile-element-systems/integrase.md)
+    * [Recombinase](biology/genome-editing/mobile-element-systems/recombinase.md)
   * [mtDNA editing](biology/genome-editing/mtdna-editing.md)
 * [🗝 Useful tools](biology/useful-tools.md)
 
