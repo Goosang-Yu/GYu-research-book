@@ -42,7 +42,7 @@
 * [💻 Python](data-science/python/README.md)
   * [set up](data-science/python/set-up.md)
   * [Basic syntax](data-science/python/basic-syntax.md)
-  * [Standard library](data-science/python/standard-library/README.md)
+  * [Standard library](data-science/python/standard-library.md)
     * [Multiprocessing](data-science/python/standard-library/multiprocessing.md)
   * [pandas](data-science/python/pandas.md)
   * [biopython](data-science/python/biopython.md)
