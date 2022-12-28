@@ -56,7 +56,17 @@
   * [Conventional ML](data-science/machine-learning/conventional-ml.md)
   * [Deep learning](data-science/machine-learning/deep-learning.md)
 * [💿 Software](data-science/software/README.md)
-  * [Git / Github](data-science/software/git-github.md)
+  * [Conda](data-science/software/conda.md)
+  * [VS code](data-science/software/vs-code/README.md)
+    * [Installation](data-science/software/vs-code/installation.md)
+    * [Manage project](data-science/software/vs-code/manage-project.md)
+    * [Extensions](data-science/software/vs-code/extensions.md)
+    * [Remote](data-science/software/vs-code/remote.md)
+  * [Git / Github](data-science/software/git-github/README.md)
+    * [Start git/github](data-science/software/git-github/start-git-github.md)
+    * [Make repository](data-science/software/git-github/make-repository.md)
+    * [Gibhub desktop](data-science/software/git-github/gibhub-desktop.md)
+    * [Git with VS code](data-science/software/git-github/git-with-vs-code.md)
 * [⚙ Hardware](data-science/hardware.md)
 
 ## Databases
