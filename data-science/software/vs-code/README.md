@@ -29,5 +29,3 @@ VS code는 python 뿐만 아니라 C, Java, HTML 등 다양한 언어를 지원�
 ## 활발한 업데이트
 
 VS code는 업데이트가 매우 활발히 이루어진다. 많은 개발자들이 필요로 하는 기능들을 점점 더 많이 갖춰가고 있으며, 버그에 대한 대응도 굉장히 빠른 편이다.&#x20;
-
-<figure><img src="../../../.gitbook/assets/VS_code_release_note.png" alt=""><figcaption><p>VS code release note (version 1.7.4.2)</p></figcaption></figure>

@@ -24,7 +24,7 @@ Chromosome에 대해 아주 좋은 설명이지만, 사실 실제 chromosome은 
 
 각각의 chromosome은 핵 안에서 엉겨있는 형태로 자신만의 영역을 차지하는데, 이를 chromosome territory라고 한다. 세포의 핵 내부를 보면 chromosome들이 각각의 territory를 차지하고 있다. 이런 영역은 꽤 일정한 패턴으로 유지되는 것처럼 나타나는데, 이는 'Lamin-associated domain (LAD) 덕분이다. Lamin (또는 lamina)는 세포의 핵의 모양을 유지해주는 그물 형태의 단백질 구조체인데, chromosome의 LAD는 이 lamina에 달라붙어서 자신의 영역을 고정하기도 한다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/chr_LAD.png" alt=""><figcaption><p>핵 내부에 존재하는 genome을 나타낸 그림 (by <a href="https://abrunet.com/">Brunet, A.</a>). LAD가 nuclear lamina에 붙어있는 것을 볼 수 있다.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/chr_LAD.png" alt=""><figcaption><p>핵 내부에 존재하는 genome을 나타낸 그림 (Brunet, A.). LAD가 nuclear lamina에 붙어있는 것을 볼 수 있다.</p></figcaption></figure>
 
 ### Active domain
 
