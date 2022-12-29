@@ -4,7 +4,9 @@ description: VS code를 사용해서 git 사용하기
 
 # Git with VS code
 
-VS code는 git을 편하게 사용할 수 있도록 많은 지원하는 기능이 많이 있다. 우선 git repository로 지정된 폴더를 열거나, 새롭게 GitHub에서 repository를 clone 해야 한다.&#x20;
+VS code는 git을 편하게 사용할 수 있도록 많은 지원하는 기능이 많이 있다. 이는 VS code의 [source control 공식 문서](https://code.visualstudio.com/docs/sourcecontrol/overview)에서도 자세히 소개하고 있다. 본 글에서는 그 중 가장 많이 사용되는 몇 가지 기능에 대해서 소개한다.
+
+우선 git repository로 지정된 폴더를 열거나, 새롭게 GitHub에서 repository를 clone 해야 한다.&#x20;
 
 ## Git repository 폴더 열기
 
@@ -38,13 +40,17 @@ Local 작업을 통해 git repository 안의 파일 중 수정 사항이 있으�
 
 만약 수정된 내용을 commit하지 않고 다시 원래대로 돌리고 싶을 경우, 'Changes'에서 반 시계 방향 화살표를 클릭해서 되돌릴 수 있다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/VScode_push.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/VScode_push.png" alt=""><figcaption><p>Sync Changes를 클릭하면 commit한 내용이 push 된다.</p></figcaption></figure>
 
-변경사항을 전부 commit 하거나 되돌렸다면, Sync Changes 버튼이 활성화된다. 이는 commit한 내용을 push 한다는 의미이며, GitHub repository에 commit한 내용을 적용시키는 기능이다.&#x20;
+변경 사항을 전부 commit 하거나 되돌렸다면, Sync Changes 버튼이 활성화된다. 이는 commit한 내용을 push 한다는 의미이며, GitHub repository에 commit한 내용을 적용하는 기능이다.&#x20;
 
 ## Branch 다루기
 
-Branch는 git에서 가장 중요한 기능 중 하나이다. 위의 예시에서는 'main' branch가 선택되어있다.  Branch는 현재 이 repository에 있는 branch 중 하나로 선택하거나, 새로운 branch를 만들어서 작업할 수 있다.&#x20;
+[Branch](./#branch) (브랜치 /  분기)는 git에서 가장 중요한 기능 중 하나이다. 특히, 새로운 버전을 개발할 때 시험용 버전으로 사용하거나, 다른 사람과 협업을 하기 위해 특정 파트만 개발하고 나중에 합칠 경우에 branch가 유용하게 사용된다. Git을 사용하는 가장 큰 이유 중 하나이다.
+
+지금까지 위의 예시에서는 'main' branch가 선택되어있다. VS code에서는 현재 이 repository에 있는 branch 중 하나로 선택하거나, 새로운 branch를 만들어서 작업할 수 있다.&#x20;
+
+
 
 
 
