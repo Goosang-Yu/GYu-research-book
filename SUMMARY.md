@@ -44,7 +44,8 @@
     * [Recombinase](biology/genome-editing/mobile-element-systems/recombinase.md)
   * [mtDNA editing](biology/genome-editing/mtdna-editing.md)
   * [Analysis](biology/genome-editing/analysis.md)
-* [🗝 Useful tools](biology/useful-tools.md)
+* [🗝 Useful tools](biology/useful-tools/README.md)
+  * [Codon optimization](biology/useful-tools/codon-optimization.md)
 
 ## Data science
 
