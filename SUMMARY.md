@@ -46,6 +46,7 @@
   * [Analysis](biology/genome-editing/analysis.md)
 * [🗝 Useful tools](biology/useful-tools/README.md)
   * [Codon optimization](biology/useful-tools/codon-optimization.md)
+  * [Protein 3D image](biology/useful-tools/protein-3d-image.md)
 
 ## Data science
 
