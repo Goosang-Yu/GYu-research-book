@@ -18,7 +18,7 @@ description: GenSmart Codon Optimization (GenScript)
 
 유명한 예시로, base editor (bis-bpNLS-BE4)의 codon을 다양한 optimization 알고리즘으로 최적화한 서열을 각각 비교했을 때, editing efficiency에 큰 차이가 있다는 결과가 보고된 바 있다 ([2018, Koblan, L. _et al., NatBiotechnol_](https://www.nature.com/articles/nbt.4172))&#x20;
 
-<figure><img src="../../.gitbook/assets/Liu_Codon_opti.png" alt=""><figcaption><p>Effects of five codon usages on editing efficiency of bis-bpNLS-BE4 in HEK293T cells. IDT=Integrated DNA Technologies; JC=Jeff Coller; GA=GeneArt; GS=GenScript; IDT-GS=IDT APOBEC+GenScript Cas9 nickase. (<strong>f</strong>) Phylogenetic tree for ancestral APOBEC reconstruction.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liu_Codon_opti.png" alt=""><figcaption><p>Effects of five codon usages on editing efficiency of bis-bpNLS-BE4 in HEK293T cells. IDT=Integrated DNA Technologies; JC=Jeff Coller; GA=GeneArt; GS=GenScript; IDT-GS=IDT APOBEC+GenScript Cas9 nickase.</p></figcaption></figure>
 
 알고리즘마다 차이가 있고, 최근에는 머신러닝을 도입해서 알고리즘이 계속 발전하는 중이다.&#x20;
 
