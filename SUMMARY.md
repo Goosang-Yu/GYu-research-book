@@ -15,7 +15,7 @@
     * [pathways](biology/background/molecular-biology/pathways.md)
   * [Oncology](biology/background/oncology.md)
 * [🔬 Basic experiments](biology/basic-experiments/README.md)
-  * [Basic methods](biology/basic-experiments/basic-methods/README.md)
+  * [Basic methods](biology/basic-experiments/common-experiments.md)
     * [Competent cell preparation](biology/basic-experiments/basic-methods/competent-cell-preparation.md)
   * [Culture](biology/basic-experiments/culture/README.md)
     * [Bacteria](biology/basic-experiments/culture/bacteria.md)
