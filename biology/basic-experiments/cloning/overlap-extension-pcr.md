@@ -98,7 +98,7 @@ PCR: 98℃ (2min) - \[98℃ (25s) - 59℃ (25s) - 72℃ (30s)] x 25 cycles - 72�
 PCR을 통해 얻은 것이므로, 반드시 sequencing해서 mutation 여부를 확인해야 한다.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Overlap_results.png" alt=""><figcaption><p>Overlap extension PCR 결과</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Overlap_results.png" alt=""><figcaption><p>Overlap extension PCR product를 gel에 내려서 찍은 결과 사진. Step2 Frag 1/2는 총 30 cycles을 돌린 후 step 3에 일부 넣은 후 추가로 30 cycles PCR을 돌린 것을 내린 것이다 (총 60 cycles).</p></figcaption></figure>
 
 {% hint style="info" %}
 위 예시에서는 밴드가 강하게 나왔으므로, 양이 충분하다면 PCR cycle 수를 낮춰도 좋다.&#x20;
