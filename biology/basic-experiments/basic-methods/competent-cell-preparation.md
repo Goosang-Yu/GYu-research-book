@@ -65,25 +65,25 @@ Dry ice와 얼음 등을 미리 준비해둔다.
 
 ### 1. 재료 / 기구 준비
 
-| Material                                    | Company           | Cat.No.        | Comments                                                                                                                             |
-| ------------------------------------------- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Beakers                                     |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Glass mass cylinder                         |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Magnetic bars                               |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Glass bottles                               |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Bottle-top filter                           | Corning           | 431118         |                                                                                                                                      |
-| EP tube                                     | Axygen            | MCT-175-C      | <mark style="color:red;"></mark>[<mark style="color:red;">Autoclaved</mark>](#user-content-fn-1)[^1]<mark style="color:red;"></mark> |
-| Conical tubes                               | SPL               |                |                                                                                                                                      |
-| Distilled water (DW)                        |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| LB Ager / Broth                             | Duchefa Biochemie | L1706 / L1704  | Plain LB 사용                                                                                                                          |
-| Rubidium Chloride (RbCl2)                   | Sigma             | R2252          |                                                                                                                                      |
-| Manganous Chloride (MnCl2•4H2O)             | Duksan            | 83C221         |                                                                                                                                      |
-| Potassium Acetate                           | Sigma             | P1190          | 3M solution으로 사용                                                                                                                     |
-| Calcium Chloride (CaCl2•2H2O)               | Sigma             | C5670          |                                                                                                                                      |
-| Glycerol                                    | Sigma             | G5516          | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| MOPS (3-(N-morpholino)propanesulfonic acid) | Sigma             | M1254 or M1442 | Powder / solution (1M)                                                                                                               |
-| Acetic acid (glacial Acetic acid)           | Duksan            | D414           | pH 조절을 위해 사용 (0.2M)                                                                                                                  |
-| Sodium Hydroxide (NaOH, 2M)                 | TCI               | S0543          | pH 조절을 위해 사용 (0.1N)                                                                                                                  |
+| Material                              | Company           | Cat.No.        | Comments                                                                                                                             |
+| ------------------------------------- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Beakers                               |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
+| Glass mass cylinder                   |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
+| Magnetic bars                         |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
+| Glass bottles                         |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
+| Bottle-top filter                     | Corning           | 431118         |                                                                                                                                      |
+| EP tube                               | Axygen            | MCT-175-C      | <mark style="color:red;"></mark>[<mark style="color:red;">Autoclaved</mark>](#user-content-fn-1)[^1]<mark style="color:red;"></mark> |
+| Conical tubes                         | SPL               |                |                                                                                                                                      |
+| Distilled water (DW)                  |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
+| LB Ager / Broth                       | Duchefa Biochemie | L1706 / L1704  | Plain LB 사용                                                                                                                          |
+| Rubidium Chloride (RbCl2)             | Sigma             | R2252          |                                                                                                                                      |
+| Manganous Chloride (MnCl2•4H2O)       | Duksan            | 83C221         |                                                                                                                                      |
+| Potassium Acetate                     | Sigma             | P1190          | <mark style="color:red;">Autoclaved</mark> (3M solution)                                                                             |
+| Calcium Chloride (CaCl2•2H2O)         | Sigma             | C5670          |                                                                                                                                      |
+| Glycerol                              | Sigma             | G5516          | <mark style="color:red;">Autoclaved</mark>                                                                                           |
+| MOPS[^2]                              | Sigma             | M1254 or M1442 | Powder / solution (1M)                                                                                                               |
+| [Acetic acid](#user-content-fn-3)[^3] | Duksan            | D414           | pH 조절을 위해 사용 (0.2M)                                                                                                                  |
+| Sodium Hydroxide (NaOH)               | TCI               | S0543          | <p>pH 조절을 위해 사용 (0.1N)<br>* Do Not Autoclave</p>                                                                                     |
 
 #### 0.2M acetic acid 만들기 (40ml 기준)
 
@@ -177,3 +177,7 @@ Culture 과정이 필요하기 때문에 3일 과정으로 진행된다.
 
 
 [^1]: 양이 너무 많으면sterilization pouch 사용
+
+[^2]: 3-(N-morpholino)propanesulfonic acid
+
+[^3]: glacial Acetic acid
