@@ -13,6 +13,7 @@
   * [Cell biology](biology/background/cell-biology.md)
   * [Molecular biology](biology/background/molecular-biology/README.md)
     * [pathways](biology/background/molecular-biology/pathways.md)
+    * [Bio-engineering](biology/background/molecular-biology/bio-engineering.md)
   * [Oncology](biology/background/oncology.md)
 * [🔬 Basic experiments](biology/basic-experiments/README.md)
   * [Basic methods](biology/basic-experiments/common-experiments.md)
