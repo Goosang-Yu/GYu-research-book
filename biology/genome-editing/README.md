@@ -54,4 +54,6 @@ Predicting the efficiency of prime editing guide RNAs in human cells ([Kim H. K.
 
 Enhanced prime editing systems by manipulating cellular determinants of editing outcomes ([Chen P. J. et al., Cell, 2021](https://www.sciencedirect.com/science/article/pii/S0092867421010655))
 
+Prime editing for precise and highly versatile genome manipulation ([Chen P. J. et al., Nat.Rev.Genet., 2022](https://www.nature.com/articles/s41576-022-00541-1))
+
 </details>
