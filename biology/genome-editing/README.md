@@ -1,8 +1,10 @@
 ---
-description: 유전자를
+description: 유전자의 원하는 위치에 특정 변이를 일으키는 방법
 ---
 
 # 🧬 Genome editing
+
+## 유전자 교정 기술과 발전 과정
 
 유전자 교정 (Genome editing)은 원하는 유전자 서열 위치에 원하는 유전자 편집을 할 수 있는 기술이다. 초창기에 징크핑거 유전자 가위 (ZFNs)를 이용한 유전자 교정 연구가 활발하게 진행되면서, 현재는 CRISPR system을 이용한 기술이 주로 연구되고 있다.&#x20;
 
@@ -14,6 +16,12 @@ description: 유전자를
 
 최근에는 DSB를 일으키지 않고도 모든 형태의 유전자 교정 (치환, 삽입, 삭제)을 할 수 있는 기술은 프라임 에디팅 (prime editing; PE)가 개발되면서, 유전자 교정의 범위를 훨씬 확장할 수 있게 되었다.&#x20;
 
+## 유전자 교정 기술의 종류와 원리
+
+<figure><img src="../../.gitbook/assets/2019_NatRevClinOncol_YinH_fig1.png" alt=""><figcaption><p>유전자 교정의 종류와 메커니즘 (<a href="https://www.nature.com/articles/s41571-019-0166-8">Yin H. et al., Nat.Rev.Clin.Oncol., 2019</a>).</p></figcaption></figure>
+
+
+
 <details>
 
 <summary>Recomended references for genome editing</summary>
@@ -23,6 +31,8 @@ description: 유전자를
 **General reviews**
 
 A guide to genome engineering with programmable nucleases ([Kim H. et al., Nat.Rev.Genet., 2014](https://www.nature.com/articles/nrg3686#citeas))
+
+CRISPR–Cas: a tool for cancer research and therapeutics ([Yin H. et al., Nat.Rev.Clin.Oncol., 2019](https://www.nature.com/articles/s41571-019-0166-8)).
 
 Genome editing with CRISPR–Cas nucleases, base editors, transposases and prime editors ([Anzalone A. V. et al., Nat.Biotechnol., 2020](https://www.nature.com/articles/s41587-020-0561-9))
 
