@@ -1,8 +1,18 @@
+---
+description: 유전자를
+---
+
 # 🧬 Genome editing
 
-Genome editing은 원하는 유전자 서열 위치에 원하는 편집된 유전자 서열을 넣을 수 있는 기술이다.&#x20;
+유전자 교정 (Genome editing)은 원하는 유전자 서열 위치에 원하는 유전자 편집을 할 수 있는 기술이다. 초창기에 징크핑거 유전자 가위 (ZFNs)를 이용한 유전자 교정 연구가 활발하게 진행되면서, 현재는 CRISPR system을 이용한 기술이 주로 연구되고 있다.&#x20;
 
+<figure><img src="../../.gitbook/assets/genome_editing_timeline.jpg" alt=""><figcaption><p>Timeline of the genome editing methods (<a href="https://doi.org/10.1515/mr-2022-0029">Huang C. et al., Med.Rev., 2022)</a>.</p></figcaption></figure>
 
+초기의 유전자 교정 기술들은 대부분 이중 가닥 절단 (double strand break; DSB)를 일으키고, 해당 위치에 원하는 유전자 교정을 유도하는 방식이었다. 하지만 DSB를 일으킬 경우, 원하지 않는 유전자의 손상이 일어날 위험성이 높기 때문에 안전성에 대한 큰 한계가 있었다.&#x20;
+
+이후, DSB를 일으키지 않고도 유전자 교정을 할 수 있는 염기 편집기 (base editor; BE)가 개발되면서, 임상적으로 중요한 유전자 돌연변이 중 대부분의 단일 염기 변이 (SNVs)를 훨씬 안전하게 교정할 수 있는 기술을 얻게 되었다.&#x20;
+
+최근에는 DSB를 일으키지 않고도 모든 형태의 유전자 교정 (치환, 삽입, 삭제)을 할 수 있는 기술은 프라임 에디팅 (prime editing; PE)가 개발되면서, 유전자 교정의 범위를 훨씬 확장할 수 있게 되었다.&#x20;
 
 <details>
 
