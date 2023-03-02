@@ -85,7 +85,7 @@ U2-OS는 transfection / transduction의 효율이 낮은 편에 속한다. 따�
 
 #### A-549
 
-
+<figure><img src="../../../../.gitbook/assets/A549.jpg" alt=""><figcaption><p>A-549, low density (좌) / high density (우) from <a href="https://www.atcc.org/products/ccl-185">ATCC</a></p></figcaption></figure>
 
 | Category        | Feature              | Category      | Feature |
 | --------------- | -------------------- | ------------- | ------- |
@@ -96,9 +96,11 @@ U2-OS는 transfection / transduction의 효율이 낮은 편에 속한다. 따�
 | Seeding density | 2\~3x10⁴ cells / cm² | Transduction  | +       |
 | Doubling time   | 30\~40hr             | Transfection  | ---     |
 
-자라는 속도가 상대적으로 느린 편이다. 형태는 각진 다각형이다. 오밀조밀 빽빽하게 자라나는 것이 특징이다. 단, 일정 수준 이상 cell이 차게되면 자라는 속도가 급격하게 느려진다.&#x20;
+ATCC에서 추천하는 media는 F12지만, DMEM으로도 문제 없이 배양할 수 있다.&#x20;
 
-실험상 특이점은, cell pellet 크기에 비해 gDNA 추출 수율이 낮다는 것이다. 아마도 cell 사이즈가 크기 때문으로 보인다.&#x20;
+검색해서 찾아봤을 때에는 doubling time이 22\~24hr 정도라고 나왔으나, 우리 실험실에서 다뤄봤을 때에는 자라는 속도가 상대적으로 느린 편이다. 형태는 각진 다각형이다. 오밀조밀 빽빽하게 자라나는 것이 특징이다. 단, 일정 수준 이상 cell이 차게  되면 자라는 속도가 급격하게 느려진다.&#x20;
+
+실험상 특이점은 cell pellet 크기에 비해 gDNA 추출 수율이 낮다는 것이다. 아마도 cell 사이즈가 크기 때문으로 보인다.&#x20;
 
 
 
