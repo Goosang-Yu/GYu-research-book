@@ -16,7 +16,7 @@ description: 다양한 cell line들에 대한 배양 경험을 정리한 기록
 
 [U2-OS](cell-lines.md#u2-os)
 
-[A-549](cell-lines.md#a549)
+[A-549](cell-lines.md#a-549)
 
 </details>
 
