@@ -14,6 +14,10 @@ description: 다양한 cell line들에 대한 배양 경험을 정리한 기록
 
 [DLD-1](cell-lines.md#dld-1)
 
+[U2-OS](cell-lines.md#u2-os)
+
+[A-549](cell-lines.md#a549)
+
 </details>
 
 <details>
@@ -32,7 +36,7 @@ description: 다양한 cell line들에 대한 배양 경험을 정리한 기록
 | --------------- | ------------------- | ------------- | ------- |
 | Organism        | Human, Homo sapiens | Culture media | DMEM    |
 | Cell type       | Epithelial cell     | Ploidy        | 3n      |
-| Tissue          | Embryonic kidney    | Puromycine    | 1ug/mL  |
+| Tissue          | Embryonic kidney    | Puromycin     | 1ug/mL  |
 | Culture type    | Adherent            | Blasticidin S | 10ug/mL |
 | Seeding density | 6x10⁴ cells / cm²   | Transduction  | +++     |
 | Doubling time   | \~24hr              | Transfection  | +++     |
@@ -51,7 +55,7 @@ HEK293T cell line은 transfection / transduction에 특화된 세포이기 때�
 | --------------- | ------------------- | ------------- | ------- |
 | Organism        | Human, Homo sapiens | Culture media | DMEM    |
 | Cell type       | Epithelial cell     | Ploidy        | 2n      |
-| Tissue          | Colon               | Puromycine    | 2ug/mL  |
+| Tissue          | Colon               | Puromycin     | 2ug/mL  |
 | Culture type    | Adherent            | Blasticidin S | 10ug/mL |
 | Seeding density | 5x10⁴ cells / cm²   | Transduction  | ++      |
 | Doubling time   | \~24hr              | Transfection  | ?       |
@@ -62,11 +66,39 @@ Culture media는 DMEM (+ 10% FBS)으로 사용해도 문제 없었다. ATCC 기�
 
 [DLD-1은 특히 MSH6 유전자가 knock-out 되어있는 세포](https://www.spandidos-publications.com/ijo/24/3/697)이다. 따라서 mismatch repair pathway에 관련된 연구에 많이 사용되고 있다. 또한, MMR pathway가 억제되면 prime editing에 굉장히 유리하므로, 다른 cell line보다 PE efficiency가 높은 편이다.
 
+#### U2-OS
+
+<figure><img src="../../../../.gitbook/assets/U2OS.jpg" alt=""><figcaption><p>U2-OS, low density (좌) / high density (우) from <a href="https://www.atcc.org/products/htb-96">ATCC</a></p></figcaption></figure>
+
+| Category        | Feature              | Category      | Feature |
+| --------------- | -------------------- | ------------- | ------- |
+| Organism        | Human, Homo sapiens  | Culture media | DMEM    |
+| Cell type       | Epithelial cell      | Ploidy        | 3n      |
+| Tissue          | Bone                 | Puromycin     |         |
+| Culture type    | Adherent             | Blasticidin S | 10ug/mL |
+| Seeding density | 2\~3x10⁴ cells / cm² | Transduction  | -       |
+| Doubling time   | \~30hr               | Transfection  | ---     |
+
+U2-OS는 세포의 크기가 큰 편이다. 따라서 cell density를 낮게 깔아줘야 한다. 또한 media의 pH 지시약 색이 크게 변하지 않았더라도, 2-3일에 한번씩 subculture를 넘겨주지 않으면 growth rate이 급격히 낮아지거나 cell이 죽어갈 수 있으므로 배양에 주의가 필요하다.&#x20;
+
+U2-OS는 transfection / transduction의 효율이 낮은 편에 속한다. 따라서 transfection은 high-throughput 실험에 적용하기에 적절하지 않고, transduction을 할 때에는 HEK293T cell 대비 5\~10배 효율이 떨어지는 것을 감안하고 실험해야 한다.&#x20;
+
+#### A-549
 
 
 
+| Category        | Feature              | Category      | Feature |
+| --------------- | -------------------- | ------------- | ------- |
+| Organism        | Human, Homo sapiens  | culture media | DMEM    |
+| Cell type       | Epithelial cell      | Ploidy        | 3n      |
+| Tissue          | Lung                 | Puromycin     | 1ug/mL  |
+| Culture type    | Adherent             | Blasticidin S | 10ug/mL |
+| Seeding density | 2\~3x10⁴ cells / cm² | Transduction  | +       |
+| Doubling time   | 30\~40hr             | Transfection  | ---     |
 
+자라는 속도가 상대적으로 느린 편이다. 형태는 각진 다각형이다. 오밀조밀 빽빽하게 자라나는 것이 특징이다. 단, 일정 수준 이상 cell이 차게되면 자라는 속도가 급격하게 느려진다.&#x20;
 
+실험상 특이점은, cell pellet 크기에 비해 gDNA 추출 수율이 낮다는 것이다. 아마도 cell 사이즈가 크기 때문으로 보인다.&#x20;
 
 
 
