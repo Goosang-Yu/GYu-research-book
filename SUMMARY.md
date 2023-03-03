@@ -105,6 +105,7 @@
     * [Gibhub desktop](data-science/software/git-github/gibhub-desktop.md)
     * [Git with VS code](data-science/software/git-github/git-with-vs-code.md)
 * [⚙ Hardware](data-science/hardware.md)
+* [😎 App](data-science/app.md)
 
 ## Databases
 
