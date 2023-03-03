@@ -39,7 +39,95 @@ Bot 기능을 가지는 app을 만들 것이기 때문에, 우리는 Slack Bot T
 9. 'OAuth & Permissions'에서, Install to Workspace를 눌러서 Slack에 App을 설치한다.&#x20;
 10. Slack Bot Token을 복사한다 ('xoxb'로 시작하는 문자열)
 
-## Open AAI
+## Step2: OpenAI API key 생성하기
 
+다음으로, ChatGPT API를 제공하는 'OpenAI'의 API key를 생성하는 단계이다.&#x20;
 
+1. [OpenAI API website](https://openai.com/blog/openai-api)에 접속해서 회원가입 후, 로그인한다.
+2. API Key 탭으로 들어가서 'Create new secret key'를 눌러서 새 API key를 만든다.
+
+<figure><img src="../.gitbook/assets/Openai_API.png" alt=""><figcaption><p>OpenAI API key</p></figcaption></figure>
+
+3. OpenAI API key를 복사한다.
+
+## Step3: 필수 패키지 설치
+
+다음으로, python으로 slack과 openai를 app으로 연동하기 위한 필수 패키지들을 설치한다. 특히 'Slack-Bolt' 패키지는 Slack app을 손 쉽게 만들 수 있는 함수들을 제공한다. 가상환경을 만들고, 아래의 패키지들을 설치한다.
+
+```
+pip install openai
+pip install slack-bolt
+pip install slack_sdk
+```
+
+## Step4: Application 실행
+
+위에서 생성한 token들을 이용해서 app을 만드는 과정이다. Python script를 아래와 같이 작성한다.&#x20;
+
+```python
+SLACK_BOT_TOKEN = "위에서 얻은 Slack Bot Token을 넣으세요."
+SLACK_APP_TOKEN = "위에서 얻은 Slack App Token을 넣으세요."
+OPENAI_API_KEY  = "위에서 얻은 OpenAI API Token을 넣으세요."
+
+import os
+import openai
+from slack_bolt.adapter.socket_mode import SocketModeHandler
+from slack_sdk import WebClient
+from slack_bolt import App
+
+# Event API & Web API
+app = App(token=SLACK_BOT_TOKEN) 
+client = WebClient(SLACK_BOT_TOKEN)
+
+# This gets activated when the bot is tagged in a channel    
+@app.event("app_mention")
+def handle_message_events(body, logger):
+    # Log message
+    print(str(body["event"]["text"]).split(">")[1])
+    
+    # Create prompt for ChatGPT
+    prompt = str(body["event"]["text"]).split(">")[1]
+    
+    # Let thre user know that we are busy with the request 
+    response = client.chat_postMessage(channel=body["event"]["channel"], 
+                                       thread_ts=body["event"]["event_ts"],
+                                       text=f"회색여우가 열심히 찾아보는 중입니다. \n조금만 기다려주세요!")
+    
+    # Check ChatGPT
+    openai.api_key = OPENAI_API_KEY
+    response = openai.Completion.create(
+        engine="text-davinci-003",
+        prompt=prompt,
+        max_tokens=1024,
+        n=1,
+        stop=None,
+        temperature=0.5).choices[0].text
+    
+    
+    # Reply to thread 
+    response = client.chat_postMessage(channel=body["event"]["channel"], 
+                                       thread_ts=body["event"]["event_ts"],
+                                       text=f"회색여우의 답변: \n{response}")
+
+if __name__ == "__main__":
+    SocketModeHandler(app, SLACK_APP_TOKEN).start()
+```
+
+일반적인 방식으로 실행한다면, 아래의 명령어를 터미널에 입력한다.&#x20;
+
+```
+python app.py
+```
+
+실행 후 터미널에 “⚡️ Bolt app is running!”라고 나타나면, 성공적으로 app이 실행된 것이다.&#x20;
+
+이를 백그라운드에서 실행하고  싶다면, nohup을 사용해 실행한다.
+
+```
+$ nohup python app.py&
+```
+
+이제 slack에서 원하는 채널에 app을 불러오고, 챗봇 이름을 언급해서 불러온 후 내용을 입력하면 thread로 답변이 달린다.&#x20;
+
+<figure><img src="../.gitbook/assets/chat_app.png" alt=""><figcaption></figcaption></figure>
 
