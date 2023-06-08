@@ -32,14 +32,7 @@ description: 다양한 cell line들에 대한 배양 경험을 정리한 기록
 
 <figure><img src="../../../../.gitbook/assets/HEK293T_culture (2).png" alt=""><figcaption><p>HEK293T, low density (좌) / high density (우)</p></figcaption></figure>
 
-| Cagegory        | Feature             | Cagegory      | Feature |
-| --------------- | ------------------- | ------------- | ------- |
-| Organism        | Human, Homo sapiens | Culture media | DMEM    |
-| Cell type       | Epithelial cell     | Ploidy        | 3n      |
-| Tissue          | Embryonic kidney    | Puromycin     | 1ug/mL  |
-| Culture type    | Adherent            | Blasticidin S | 10ug/mL |
-| Seeding density | 6x10⁴ cells / cm²   | Transduction  | +++     |
-| Doubling time   | \~24hr              | Transfection  | +++     |
+<table><thead><tr><th width="175">Cagegory</th><th width="209">Feature</th><th>Cagegory</th><th>Feature</th></tr></thead><tbody><tr><td>Organism</td><td>Human, Homo sapiens</td><td>Culture media</td><td>DMEM</td></tr><tr><td>Cell type</td><td>Epithelial cell</td><td>Ploidy</td><td>3n</td></tr><tr><td>Tissue</td><td>Embryonic kidney</td><td>Puromycin</td><td>1ug/mL</td></tr><tr><td>Culture type</td><td>Adherent</td><td>Blasticidin S</td><td>10ug/mL</td></tr><tr><td>Seeding density</td><td>6x10⁴ cells / cm²</td><td>Transduction</td><td>+++</td></tr><tr><td>Doubling time</td><td>~24hr</td><td>Transfection</td><td>+++</td></tr></tbody></table>
 
 HEK293T cell line은 transfection / transduction에 특화된 세포이기 때문에 다양한 연구에서 아주 광범위하게 활용되는 세포주이다. 특정 단백질 발현의 영향을 보려고 할 때는 간단히 plasmid vector를 transfection 해주면 되고, lentivirus를 제작하고 싶을 때도 HEK293T cell을 사용한다 ([protocol 1](https://www.addgene.org/protocols/lentivirus-production/)). 또한 배양하는 난이도도 높지 않고, 자라는 속도도 아주 빠르기 때문에 연구용으로 아주 적합한 세포이다. 한 가지 주의할 점은, 바닥에 붙어있는 힘이 아주 센 편은 아니기 때문에 dish에 조금 충격이 가해지거나 PBS wash 등에서 힘 조절을 잘못할 경우 세포들이 다 떨어져 버릴 수 있다.&#x20;
 
@@ -51,14 +44,7 @@ HEK293T cell line은 transfection / transduction에 특화된 세포이기 때�
 
 <figure><img src="../../../../.gitbook/assets/DLD1_culture.png" alt=""><figcaption><p>DLD-1, low density (좌) / high density (우)</p></figcaption></figure>
 
-| Category        | Feature             | Category      | Feature |
-| --------------- | ------------------- | ------------- | ------- |
-| Organism        | Human, Homo sapiens | Culture media | DMEM    |
-| Cell type       | Epithelial cell     | Ploidy        | 2n      |
-| Tissue          | Colon               | Puromycin     | 2ug/mL  |
-| Culture type    | Adherent            | Blasticidin S | 10ug/mL |
-| Seeding density | 5x10⁴ cells / cm²   | Transduction  | ++      |
-| Doubling time   | \~24hr              | Transfection  | ?       |
+<table><thead><tr><th width="183">Category</th><th width="223">Feature</th><th width="178">Category</th><th>Feature</th></tr></thead><tbody><tr><td>Organism</td><td>Human, Homo sapiens</td><td>Culture media</td><td>DMEM</td></tr><tr><td>Cell type</td><td>Epithelial cell</td><td>Ploidy</td><td>2n</td></tr><tr><td>Tissue</td><td>Colon</td><td>Puromycin</td><td>2ug/mL</td></tr><tr><td>Culture type</td><td>Adherent</td><td>Blasticidin S</td><td>10ug/mL</td></tr><tr><td>Seeding density</td><td>5x10⁴ cells / cm²</td><td>Transduction</td><td>++</td></tr><tr><td>Doubling time</td><td>~24hr</td><td>Transfection</td><td>?</td></tr></tbody></table>
 
 DLD-1은 키우기 굉장히 수월한 세포이다. 아주 빽빽하게 자라도 금방 죽지 않고 잘 버티는 편이며, 4-5일에 한  번씩 subculture를 넘겨줘도 큰 문제가 없는 튼튼한 세포주이다. 또한, lentivirus transduction도 상대적으로 잘 되기 때문에 stable cell line을 제작하기도 좋다. 세포 배양 시 한 가지 특징적인 것은, 3-5일 정도 지속해서 바닥에 붙은 채로 배양하면 너무 단단하게 달라붙기 때문에 T/E를 처리해도 잘 떨어지지 않을 수 있다. 이럴 때에는 T/E를 2-3배 정도 많이 처리하고, 일정 시간 후에는 손으로 dish를 강하게 치면서 물리적으로 떼내야 할 수도 있다.
 
@@ -87,14 +73,7 @@ U2-OS는 transfection / transduction의 효율이 낮은 편에 속한다. 따�
 
 <figure><img src="../../../../.gitbook/assets/A549.jpg" alt=""><figcaption><p>A-549, low density (좌) / high density (우) from <a href="https://www.atcc.org/products/ccl-185">ATCC</a></p></figcaption></figure>
 
-| Category        | Feature              | Category      | Feature |
-| --------------- | -------------------- | ------------- | ------- |
-| Organism        | Human, Homo sapiens  | culture media | DMEM    |
-| Cell type       | Epithelial cell      | Ploidy        | 3n      |
-| Tissue          | Lung                 | Puromycin     | 1ug/mL  |
-| Culture type    | Adherent             | Blasticidin S | 10ug/mL |
-| Seeding density | 2\~3x10⁴ cells / cm² | Transduction  | +       |
-| Doubling time   | 30\~40hr             | Transfection  | ---     |
+<table><thead><tr><th width="180">Category</th><th width="224">Feature</th><th>Category</th><th>Feature</th></tr></thead><tbody><tr><td>Organism</td><td>Human, Homo sapiens</td><td>culture media</td><td>DMEM</td></tr><tr><td>Cell type</td><td>Epithelial cell</td><td>Ploidy</td><td>3n</td></tr><tr><td>Tissue</td><td>Lung</td><td>Puromycin</td><td>1ug/mL</td></tr><tr><td>Culture type</td><td>Adherent</td><td>Blasticidin S</td><td>10ug/mL</td></tr><tr><td>Seeding density</td><td>2~3x10⁴ cells / cm²</td><td>Transduction</td><td>+</td></tr><tr><td>Doubling time</td><td>30~40hr</td><td>Transfection</td><td>---</td></tr></tbody></table>
 
 ATCC에서 추천하는 media는 F12지만, DMEM으로도 문제 없이 배양할 수 있다.&#x20;
 

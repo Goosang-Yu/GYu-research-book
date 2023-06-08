@@ -70,10 +70,7 @@ Fragment A/B PCR product는 purification 과정 없이 그대로 사용한 것.&
 
 아래의 조합의 primer와 fragment를 사용했다. Step2-Fragment 2의 경우에는 3' end 쪽으로 추가 연장만 필요했기 때문에 fragment B가 없다.
 
-| Target fragment | FP        | RP        | Frag A      | Frag B         |
-| --------------- | --------- | --------- | ----------- | -------------- |
-| Step2-Frag1     | ShS15\_F1 | ShS15\_R2 | Step1-Frag1 | Step1-Frag2    |
-| Step2-Frag2     | ShS15\_F3 | ShS15\_R4 | Step1-Frag3 | X (D.W. added) |
+<table><thead><tr><th width="191">Target fragment</th><th width="115">FP</th><th width="111">RP</th><th width="157">Frag A</th><th>Frag B</th></tr></thead><tbody><tr><td>Step2-Frag1</td><td>ShS15_F1</td><td>ShS15_R2</td><td>Step1-Frag1</td><td>Step1-Frag2</td></tr><tr><td>Step2-Frag2</td><td>ShS15_F3</td><td>ShS15_R4</td><td>Step1-Frag3</td><td>X (D.W. added)</td></tr></tbody></table>
 
 PCR: 98℃ (2min) - \[98℃ (25s) - 59℃ (25s) - 72℃ (30s)] x 30 cycles - 72℃ (3min) - 16℃
 

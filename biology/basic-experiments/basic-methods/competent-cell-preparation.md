@@ -65,25 +65,7 @@ Dry ice와 얼음 등을 미리 준비해둔다.
 
 ### 1. 재료 / 기구 준비
 
-| Material                              | Company           | Cat.No.        | Comments                                                                                                                             |
-| ------------------------------------- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Beakers                               |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Glass mass cylinder                   |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Magnetic bars                         |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Glass bottles                         |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| Bottle-top filter                     | Corning           | 431118         |                                                                                                                                      |
-| EP tube                               | Axygen            | MCT-175-C      | <mark style="color:red;"></mark>[<mark style="color:red;">Autoclaved</mark>](#user-content-fn-1)[^1]<mark style="color:red;"></mark> |
-| Conical tubes                         | SPL               |                |                                                                                                                                      |
-| Distilled water (DW)                  |                   |                | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| LB Ager / Broth                       | Duchefa Biochemie | L1706 / L1704  | Plain LB 사용                                                                                                                          |
-| Rubidium Chloride (RbCl2)             | Sigma             | R2252          |                                                                                                                                      |
-| Manganous Chloride (MnCl2•4H2O)       | Duksan            | 83C221         |                                                                                                                                      |
-| Potassium Acetate                     | Sigma             | P1190          | <mark style="color:red;">Autoclaved</mark> (3M solution)                                                                             |
-| Calcium Chloride (CaCl2•2H2O)         | Sigma             | C5670          |                                                                                                                                      |
-| Glycerol                              | Sigma             | G5516          | <mark style="color:red;">Autoclaved</mark>                                                                                           |
-| MOPS[^2]                              | Sigma             | M1254 or M1442 | Powder / solution (1M)                                                                                                               |
-| [Acetic acid](#user-content-fn-3)[^3] | Duksan            | D414           | pH 조절을 위해 사용 (0.2M)                                                                                                                  |
-| Sodium Hydroxide (NaOH)               | TCI               | S0543          | <p>pH 조절을 위해 사용 (0.1N)<br>* Do Not Autoclave</p>                                                                                     |
+<table><thead><tr><th width="240">Material</th><th width="115">Company</th><th width="123">Cat.No.</th><th>Comments</th></tr></thead><tbody><tr><td>Beakers</td><td></td><td></td><td><mark style="color:red;">Autoclaved</mark></td></tr><tr><td>Glass mass cylinder</td><td></td><td></td><td><mark style="color:red;">Autoclaved</mark></td></tr><tr><td>Magnetic bars</td><td></td><td></td><td><mark style="color:red;">Autoclaved</mark></td></tr><tr><td>Glass bottles</td><td></td><td></td><td><mark style="color:red;">Autoclaved</mark></td></tr><tr><td>Bottle-top filter</td><td>Corning</td><td>431118</td><td></td></tr><tr><td>EP tube</td><td>Axygen</td><td>MCT-175-C</td><td><a data-footnote-ref href="#user-content-fn-1"><mark style="color:red;">Autoclaved</mark></a></td></tr><tr><td>Conical tubes</td><td>SPL</td><td></td><td></td></tr><tr><td>Distilled water (DW)</td><td></td><td></td><td><mark style="color:red;">Autoclaved</mark></td></tr><tr><td>LB Ager / Broth</td><td>Duchefa Biochemie</td><td>L1706 / L1704</td><td>Plain LB 사용</td></tr><tr><td>Rubidium Chloride (RbCl2)</td><td>Sigma</td><td>R2252</td><td></td></tr><tr><td>Manganous Chloride (MnCl2•4H2O)</td><td>Duksan</td><td>83C221</td><td></td></tr><tr><td>Potassium Acetate</td><td>Sigma</td><td>P1190</td><td><mark style="color:red;">Autoclaved</mark> (3M solution) </td></tr><tr><td>Calcium Chloride (CaCl2•2H2O)</td><td>Sigma</td><td>C5670</td><td></td></tr><tr><td>Glycerol</td><td>Sigma</td><td>G5516</td><td><mark style="color:red;">Autoclaved</mark></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-2">MOPS</a></td><td>Sigma</td><td>M1254 or M1442</td><td>Powder / solution (1M)</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-3">Acetic acid</a></td><td>Duksan</td><td>D414</td><td>pH 조절을 위해 사용 (0.2M)</td></tr><tr><td>Sodium Hydroxide (NaOH)</td><td>TCI</td><td>S0543</td><td>pH 조절을 위해 사용 (0.1N)<br>* Do Not Autoclave</td></tr></tbody></table>
 
 #### 0.2M acetic acid 만들기 (40ml 기준)
 
@@ -123,13 +105,7 @@ MOPS solution (sigma, M1442)을 구매하여 사용하면 훨씬 편리하다. 1
 
 #### RF-1 buffer 만들기 (1000mL 기준)
 
-| Reagent                             | Amount        | Final Conc. |
-| ----------------------------------- | ------------- | ----------- |
-| 3M Potassium Acetate stock (pH 7.5) | 10mL          | 30mM        |
-| MnCl2•4H2O                          | 9.9 g         | 50mM        |
-| RbCl2                               | 12 g          | 100mM       |
-| CaCl2•2H2O                          | 1.5 g         | 10mM        |
-| Glycerol                            | 150g or 120ml | 15% wt/vol  |
+<table><thead><tr><th width="403.3333333333333">Reagent</th><th width="199">Amount</th><th>Final Conc.</th></tr></thead><tbody><tr><td>3M Potassium Acetate stock (pH 7.5)</td><td>10mL</td><td>30mM</td></tr><tr><td>MnCl2•4H2O</td><td>9.9 g</td><td>50mM</td></tr><tr><td>RbCl2</td><td>12 g</td><td>100mM</td></tr><tr><td>CaCl2•2H2O</td><td>1.5 g</td><td>10mM</td></tr><tr><td>Glycerol</td><td>150g or 120ml</td><td>15% wt/vol</td></tr></tbody></table>
 
 1. 비커에 magnetic stirrer와 DW 650mL을 넣은 후, 3M potassium acetate 10mL, MnCl2•4H2O 9.9g, RbCl2 12g, CaCl2•2H2O 1.5g, Glycerol 120mL을 순서대로 녹인다.&#x20;
 2. 0.2M acetic acid를 이용해서 조심스럽게 pH 5.8로 맞춘다. pH가 너무 낮아지지 않도록 주의한다.
