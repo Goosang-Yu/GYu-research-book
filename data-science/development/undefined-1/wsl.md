@@ -105,3 +105,15 @@ wsl -l -v
 Terminal의 '설정>프로필'에서도 Linux가 추가된 것을 볼 수 있다. 자신의 기호와 용도에 맞게 설정을 맞춰서 사용해보자.&#x20;
 
 <figure><img src="../../../.gitbook/assets/wsl_ubuntu_start.png" alt=""><figcaption><p>윈도우에서 리눅스를 편하게 다룰 수 있다!</p></figcaption></figure>
+
+리눅스 환경을 처음 설치했다면 기본적인 패키지 업데이트와 필수 패키지 설치를 진행한다.&#x20;
+
+```
+sudo apt update
+sudo apt upgrade
+sudo apt-get install build-essential
+sudo apt install cmake
+```
+
+그리고 만약 데이터 분석 등에 python을 사용한다면 [miniconda](../../python/set-up.md)를 설치해준다.&#x20;
+

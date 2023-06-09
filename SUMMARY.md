@@ -92,6 +92,7 @@
   * [Conventional ML](data-science/machine-learning/conventional-ml.md)
   * [Deep learning](data-science/machine-learning/deep-learning.md)
 * [💿 Development](data-science/development/README.md)
+  * [기타](data-science/development/undefined.md)
   * [Package manager](data-science/development/package-manager/README.md)
     * [PyPI](data-science/development/package-manager/pypi.md)
     * [Conda](data-science/development/package-manager/conda.md)
@@ -107,8 +108,8 @@
     * [Github repository](data-science/development/git-github/github-repository.md)
     * [Gibhub desktop](data-science/development/git-github/gibhub-desktop.md)
     * [Git with VS code](data-science/development/git-github/git-with-vs-code.md)
-  * [가상머신](data-science/development/undefined/README.md)
-    * [WSL](data-science/development/undefined/wsl.md)
+  * [가상머신](data-science/development/undefined-1/README.md)
+    * [WSL](data-science/development/undefined-1/wsl.md)
 * [⚙ Hardware](data-science/hardware.md)
 * [😎 App](data-science/app.md)
 
