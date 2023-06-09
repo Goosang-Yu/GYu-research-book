@@ -98,3 +98,10 @@ wsl --install -d Ubuntu
 wsl -l -v
 ```
 
+### 4) 터미널에서 리눅스 실행하기
+
+이제 우분투가 설치되었다면 windows terminal에서 리눅스 환경으로 개발을 할 수 있다.&#x20;
+
+Terminal의 '설정>프로필'에서도 Linux가 추가된 것을 볼 수 있다. 자신의 기호와 용도에 맞게 설정을 맞춰서 사용해보자.&#x20;
+
+<figure><img src="../../../.gitbook/assets/wsl_ubuntu_start.png" alt=""><figcaption><p>윈도우에서 리눅스를 편하게 다룰 수 있다!</p></figcaption></figure>
