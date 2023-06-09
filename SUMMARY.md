@@ -106,6 +106,8 @@
     * [Github repository](data-science/development/git-github/github-repository.md)
     * [Gibhub desktop](data-science/development/git-github/gibhub-desktop.md)
     * [Git with VS code](data-science/development/git-github/git-with-vs-code.md)
+  * [가상머신](data-science/development/undefined/README.md)
+    * [WSL](data-science/development/undefined/wsl.md)
 * [⚙ Hardware](data-science/hardware.md)
 * [😎 App](data-science/app.md)
 
