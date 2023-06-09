@@ -55,6 +55,7 @@
   * [mtDNA editing](biology/genome-editing/mtdna-editing.md)
   * [Analysis](biology/genome-editing/analysis.md)
 * [🗝 Useful tools](biology/useful-tools/README.md)
+  * [CRISPR prediction tools](biology/useful-tools/crispr-prediction-tools.md)
   * [Codon optimization](biology/useful-tools/codon-optimization.md)
   * [Protein 3D image](biology/useful-tools/protein-3d-image.md)
 * [📝 Research note](biology/research-note/README.md)
