@@ -88,6 +88,7 @@
 * [💾 Linux](data-science/linux.md)
 * [🐣 Machine learning](data-science/machine-learning.md)
   * [ML background](data-science/machine-learning/ml-background.md)
+  * [딥러닝 개발 환경 세팅](data-science/machine-learning/undefined.md)
   * [Data engineering](data-science/machine-learning/data-engineering.md)
   * [Conventional ML](data-science/machine-learning/conventional-ml.md)
   * [Deep learning](data-science/machine-learning/deep-learning.md)
