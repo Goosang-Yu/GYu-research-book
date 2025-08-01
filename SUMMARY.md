@@ -1,6 +1,11 @@
 # Table of contents
 
 * [👋 소개글](README.md)
+* [🚴 대학원 생존가이드](undefined-1/README.md)
+  * [연구실 선택하는 법](undefined-1/undefined.md)
+  * [지식을 쌓는 법](undefined-1/undefined-1.md)
+  * [실험을 잘 하는 법](undefined-1/undefined-2.md)
+  * [인간관계를 잘 유지하는 법](undefined-1/undefined-3.md)
 
 ## Biology
 
