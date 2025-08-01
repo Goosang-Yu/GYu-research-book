@@ -4,7 +4,7 @@ description: Rubidium chloride를 사용한 형질전환용 박테리아 제작
 
 # Competent cell preparation
 
-_E.Coli_에 원하는 외래DNA (plasmid)를 전달하는 '형질전환'은 생명공학 연구자들이 거의 매일 같이 사용하는 실험 기법이다. 일반적인 _E.Coli_는 plasmid를 쉽게 안으로 도입할 수 없으나, 인공적인 처리를 한 경우에는 훨씬 쉽게 세포 안으로 plasmid를 받아들일 수 있는 상태가 된다. 이렇게 형질전환이 쉽게 일어나는 세포를 competent cell이라고 한다.&#x20;
+_E.Col&#x69;_&#xC5D0; 원하는 외래DNA (plasmid)를 전달하는 '형질전환'은 생명공학 연구자들이 거의 매일 같이 사용하는 실험 기법이다. 일반적인 _E.Col&#x69;_&#xB294; plasmid를 쉽게 안으로 도입할 수 없으나, 인공적인 처리를 한 경우에는 훨씬 쉽게 세포 안으로 plasmid를 받아들일 수 있는 상태가 된다. 이렇게 형질전환이 쉽게 일어나는 세포를 competent cell이라고 한다.&#x20;
 
 본 글에서는 heat shock으로 형질전환을 할 수 있는 competent cell을 제작하는 방법에 대해 다룬다.&#x20;
 

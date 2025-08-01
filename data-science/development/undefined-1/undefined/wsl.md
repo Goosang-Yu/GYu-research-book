@@ -35,7 +35,7 @@ wsl --install
 
 #### 1단계: Linux용 Windows 하위 시스템 사용
 
-PowerShell을 **관리자 권한(시작 메뉴 > PowerShell >에서 관리자 권한으로 실행 >을 마우스 오른쪽 단추로 클릭)**으로 열고 다음 명령을 입력한다.
+PowerShell을 **관리자 권한(시작 메뉴 > PowerShell >에서 관리자 권한으로 실행 >을 마우스 오른쪽 단추로 클릭)**&#xC73C;로 열고 다음 명령을 입력한다.
 
 ```powershell
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
@@ -58,7 +58,7 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 
 #### 4단계: Linux 커널 업데이트 패키지 다운로드
 
-[x64 머신용 최신 WSL2 Linux 커널 업데이트 패키지](https://wslstorestorage.blob.core.windows.net/wslblob/wsl\_update\_x64.msi)를 다운로드 후 설치합니다.&#x20;
+[x64 머신용 최신 WSL2 Linux 커널 업데이트 패키지](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)를 다운로드 후 설치합니다.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/WSL_package.png" alt=""><figcaption><p>커널 업데이트를 위해 위 프로그램을 설치한다.</p></figcaption></figure>
 

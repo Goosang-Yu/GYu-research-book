@@ -42,7 +42,7 @@
     * [NGS](biology/basic-experiments/sequencing/ngs.md)
     * [Long-read sequencing](biology/basic-experiments/sequencing/long-read-sequencing.md)
   * [Page 3](biology/basic-experiments/page-3.md)
-* [🛠 Equipment guide](biology/equipment-guide.md)
+* [🛠️ Equipment guide](biology/equipment-guide.md)
 * [🧬 Genome editing](biology/genome-editing/README.md)
   * [CRISPR-Cas system](biology/genome-editing/crispr-cas-system.md)
   * [Cas nuclease](biology/genome-editing/cas-nuclease.md)
@@ -54,7 +54,7 @@
     * [Recombinase](biology/genome-editing/mobile-element-systems/recombinase.md)
   * [mtDNA editing](biology/genome-editing/mtdna-editing.md)
   * [Analysis](biology/genome-editing/analysis.md)
-* [🗝 Useful tools](biology/useful-tools/README.md)
+* [🗝️ Useful tools](biology/useful-tools/README.md)
   * [CRISPR prediction tools](biology/useful-tools/crispr-prediction-tools.md)
   * [Codon optimization](biology/useful-tools/codon-optimization.md)
   * [Protein structure](biology/useful-tools/protein-structure/README.md)
@@ -113,7 +113,7 @@
   * [Data engineering](data-science/machine-learning/data-engineering.md)
   * [Conventional ML](data-science/machine-learning/conventional-ml.md)
   * [Deep learning](data-science/machine-learning/deep-learning.md)
-* [⚙ Hardware](data-science/hardware.md)
+* [⚙️ Hardware](data-science/hardware.md)
 * [😎 App](data-science/app.md)
 
 ## Databases
